@@ -1,10 +1,4 @@
-# crypto-wallet-analyst
-
-[![npm version](https://img.shields.io/npm/v/wallet-analyzer)](https://www.npmjs.com/package/wallet-analyzer)
-[![build](https://img.shields.io/github/actions/workflow/status/KlyneChrysler/wallet-analyzer/build.yml?branch=main)](https://github.com/KlyneChrysler/wallet-analyzer/actions)
-[![license](https://img.shields.io/npm/l/wallet-analyzer)](LICENSE)
-[![typescript](https://img.shields.io/badge/built%20with-typescript-blue)](tsconfig.json)
-[![issues](https://img.shields.io/github/issues/KlyneChrysler/wallet-analyzer)](https://github.com/KlyneChrysler/wallet-analyzer/issues)
+# crypto-wallet-analyzer
 
 # What is this?
 
