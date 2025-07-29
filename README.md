@@ -18,7 +18,7 @@ npm install crypto-wallet-analyzer
 
 # How to use:
 
-import { analyzeCryptoWallet } from 'wallet-analyzer';
+import { analyzeCryptoWallet } from 'crypto-wallet-analyzer';
 
 const profile = await analyzeCryptoWallet("bc1qw508d6qejxtdg4y5r3zarvary0c5xw7kygt080");
 
